@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic[email]
+pydantic-settings
+python-dotenv
+httpx
+gitpython
+tiktoken
+detect-secrets
+structlog
+pyyaml
+alembic
